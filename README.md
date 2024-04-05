@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GoDbAsTeR
-- 👀 I’m interested in 
+- 👀 I’m interested in learning c++
 - 🌱 I’m currently getting into computer science
 - 💞️ I’m looking to collaborate on learning and expanding my knowledge as far as computer science is concerned
 - 📫 How to reach me ...
